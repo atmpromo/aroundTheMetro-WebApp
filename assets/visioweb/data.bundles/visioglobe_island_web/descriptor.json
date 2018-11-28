@@ -1,0 +1,13 @@
+{
+   "version" : 1,
+   "maps" : [
+      {
+         "name" : "com.visioglobe.sdk/datavisioisland",
+         "timestamp" : "20150917153042",
+         "sdk_version" : "1.7.14",
+         "path" : "map.json",
+         "sdk_min_version" : "1.7.14",
+         "sdk_type" : "web"
+      }
+   ]
+}
